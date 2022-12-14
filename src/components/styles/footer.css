@@ -1,0 +1,14 @@
+/* footer.css */
+
+.app-footer {
+    padding: 10px;
+    }
+    
+    .app-footer a {
+    text-decoration: none;
+    color: black;
+    }
+    
+    .app-footer a:hover {
+    text-decoration: underline;
+    }
