@@ -1,0 +1,15 @@
+This file will contain a list of files and directories to be ignored by git.
+Node dependencies
+node_modules/
+
+Backend environment variables
+.env
+
+MongoDB data
+data/
+
+Generated test files
+tests/test-*
+
+Generated coverage report
+coverage/
